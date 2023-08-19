@@ -1,4 +1,4 @@
 #!/bin/bash
-git add *
+git add *.cpp
 git commit -m 'Codeforces'
 git push
