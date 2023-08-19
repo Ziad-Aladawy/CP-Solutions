@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "Name of Problem:"
+read NAME
+echo "Link of Problem:"
+read LINK
+echo "1. [$NAME]($LINK) | [Docs/$NAME]" >> README.md
