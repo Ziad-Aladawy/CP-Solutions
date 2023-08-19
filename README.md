@@ -6,5 +6,3 @@
 1. [A. Elephant](https://codeforces.com/problemset/problem/617/A)
 1. [A. Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)
 1. [A. Taymyr is calling you](https://codeforces.com/problemset/problem/764/A)
-1. [[some file.txt]]
-1. [A. Soft Drinking](https://codeforces.com/problemset/problem/151/A) | [Docs/A. Soft Drinking]()
