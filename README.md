@@ -1,3 +1,3 @@
 # Solved Problems
-[https://codeforces.com/problemset/problem/617/A](A. Elephant)
+[A. Elephant](https://codeforces.com/problemset/problem/617/A)
 
